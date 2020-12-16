@@ -6,7 +6,7 @@
 </p>
 <p align="center"><h2 align="center"> Hi folks! 👋 </h2></center>
 <samp><h3 align="center">A developer, an avid learner, problem solver and a leader</h3></samp>
-<samp><p align="center">Hey, I am <samp> Nikhil Mulchandani</samp>, currently in my final year undergrad Engineering. An learner and explorer set out on to learn various technologies, currently working on Full Stack Web Dev (MERN) 👨🏻‍💻 </p>
+<samp><p align="center">Hey, I am <samp> Nikhil Mulchandani</samp>, working as a Systems Engineer at Tata Consultancy Services. An learner and explorer set out on to learn various technologies, currently working on Java WebMethods, and Full Stack Web Dev (MERN) 👨🏻‍💻 </p>
 <h3 align="center">Let's talk 🤝</h4> 
 <p align="center"><samp >💬 I talk about WebApps, Voice, Leadership and Food :)</samp></p>
 <p align="center">
